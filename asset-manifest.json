@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/DES-Transmutator/static/css/main.c7e9f1b7.chunk.css",
-    "main.js": "/DES-Transmutator/static/js/main.0652b074.chunk.js",
-    "main.js.map": "/DES-Transmutator/static/js/main.0652b074.chunk.js.map",
+    "main.js": "/DES-Transmutator/static/js/main.62c148cc.chunk.js",
+    "main.js.map": "/DES-Transmutator/static/js/main.62c148cc.chunk.js.map",
     "runtime-main.js": "/DES-Transmutator/static/js/runtime-main.9467c2fb.js",
     "runtime-main.js.map": "/DES-Transmutator/static/js/runtime-main.9467c2fb.js.map",
-    "static/js/2.2956e980.chunk.js": "/DES-Transmutator/static/js/2.2956e980.chunk.js",
-    "static/js/2.2956e980.chunk.js.map": "/DES-Transmutator/static/js/2.2956e980.chunk.js.map",
+    "static/js/2.6293046c.chunk.js": "/DES-Transmutator/static/js/2.6293046c.chunk.js",
+    "static/js/2.6293046c.chunk.js.map": "/DES-Transmutator/static/js/2.6293046c.chunk.js.map",
     "index.html": "/DES-Transmutator/index.html",
     "static/css/main.c7e9f1b7.chunk.css.map": "/DES-Transmutator/static/css/main.c7e9f1b7.chunk.css.map",
-    "static/js/2.2956e980.chunk.js.LICENSE.txt": "/DES-Transmutator/static/js/2.2956e980.chunk.js.LICENSE.txt",
+    "static/js/2.6293046c.chunk.js.LICENSE.txt": "/DES-Transmutator/static/js/2.6293046c.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/DES-Transmutator/static/media/fonts.0dd9f1c4.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.9467c2fb.js",
-    "static/js/2.2956e980.chunk.js",
+    "static/js/2.6293046c.chunk.js",
     "static/css/main.c7e9f1b7.chunk.css",
-    "static/js/main.0652b074.chunk.js"
+    "static/js/main.62c148cc.chunk.js"
   ]
 }
